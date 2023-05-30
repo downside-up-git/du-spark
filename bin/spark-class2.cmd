@@ -77,3 +77,5 @@ for /f "tokens=*" %%i in (%LAUNCHER_OUTPUT%) do (
 )
 del %LAUNCHER_OUTPUT%
 %SPARK_CMD%
+
+

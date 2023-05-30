@@ -151,3 +151,5 @@ Notice that
 We suggest to keep those parameters in <code>core-site.xml</code> for testing purposes when running Spark
 via <code>spark-shell</code>.
 For job submissions they should be provided via <code>sparkContext.hadoopConfiguration</code>.
+
+

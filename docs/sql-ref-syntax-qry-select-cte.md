@@ -122,3 +122,5 @@ SELECT * FROM t2;
 ### Related Statements
 
 * [SELECT](sql-ref-syntax-qry-select.html)
+
+

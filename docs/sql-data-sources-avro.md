@@ -569,3 +569,5 @@ You can also specify the whole output Avro schema with the option `avroSchema`, 
     <td>decimal</td>
   </tr>
 </table>
+
+

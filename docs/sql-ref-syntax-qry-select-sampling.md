@@ -92,3 +92,4 @@ SELECT * FROM test TABLESAMPLE (BUCKET 4 OUT OF 10);
 ### Related Statements
 
 * [SELECT](sql-ref-syntax-qry-select.html)
+

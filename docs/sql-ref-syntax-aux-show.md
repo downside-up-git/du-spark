@@ -28,3 +28,5 @@ license: |
  * [SHOW TABLES](sql-ref-syntax-aux-show-tables.html)
  * [SHOW TBLPROPERTIES](sql-ref-syntax-aux-show-tblproperties.html)
  * [SHOW VIEWS](sql-ref-syntax-aux-show-views.html)
+
+

@@ -55,3 +55,5 @@ User-Defined Functions (UDFs) are a feature of Spark SQL that allows users to de
  * [Scalar User-Defined Functions (UDFs)](sql-ref-functions-udf-scalar.html)
  * [User-Defined Aggregate Functions (UDAFs)](sql-ref-functions-udf-aggregate.html)
  * [Integration with Hive UDFs/UDAFs/UDTFs](sql-ref-functions-udf-hive.html)
+
+

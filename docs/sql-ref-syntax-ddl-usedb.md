@@ -55,3 +55,5 @@ Error: org.apache.spark.sql.catalyst.analysis.NoSuchDatabaseException: Database 
 * [CREATE DATABASE](sql-ref-syntax-ddl-create-database.html)
 * [DROP DATABASE](sql-ref-syntax-ddl-drop-database.html)
 * [CREATE TABLE ](sql-ref-syntax-ddl-create-table.html)
+
+

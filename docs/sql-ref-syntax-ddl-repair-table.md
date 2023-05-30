@@ -76,3 +76,5 @@ SELECT * FROM t1;
 ### Related Statements
 
 * [ALTER TABLE](sql-ref-syntax-ddl-alter-table.html)
+
+

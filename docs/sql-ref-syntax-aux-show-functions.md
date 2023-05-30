@@ -132,3 +132,5 @@ SHOW FUNCTIONS LIKE 't[a-z][a-z][a-z]';
 ### Related Statements
 
 * [DESCRIBE FUNCTION](sql-ref-syntax-aux-describe-function.html)
+
+

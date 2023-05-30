@@ -210,3 +210,5 @@ The following options can be used to configure the version of Hive that is used 
     <td>1.4.0</td>
   </tr>
 </table>
+
+

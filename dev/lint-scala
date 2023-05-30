@@ -43,3 +43,5 @@ if test ! -z "$ERRORS"; then
 else
   echo -e "Scalafmt checks passed."
 fi
+
+

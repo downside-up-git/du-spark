@@ -85,3 +85,5 @@ SELECT a, b, c FROM t1,
 
 * [SELECT Main](sql-ref-syntax-qry-select.html)
 * [JOIN](sql-ref-syntax-qry-select-join.html)
+
+

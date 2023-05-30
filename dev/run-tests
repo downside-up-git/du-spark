@@ -27,3 +27,5 @@ if [[ "$PYTHON_VERSION_CHECK" == "True" ]]; then
 fi
 
 exec python3 -u ./dev/run-tests.py "$@"
+
+

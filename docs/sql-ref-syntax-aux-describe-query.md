@@ -108,3 +108,5 @@ DESCRIBE FROM person SELECT age;
 * [DESCRIBE DATABASE](sql-ref-syntax-aux-describe-database.html)
 * [DESCRIBE TABLE](sql-ref-syntax-aux-describe-table.html)
 * [DESCRIBE FUNCTION](sql-ref-syntax-aux-describe-function.html)
+
+

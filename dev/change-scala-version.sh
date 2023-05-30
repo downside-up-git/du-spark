@@ -98,3 +98,5 @@ else
   sed_i 's/\-Pscala\-'$FROM_VERSION' //' "$BASEDIR/dev/mima"
 fi
 chmod 775 "$BASEDIR/dev/mima"
+
+

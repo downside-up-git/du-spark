@@ -61,3 +61,5 @@
     <suppress checks="MethodName"
               files="connector/connect/client/jvm/src/main/java/org/apache/spark/sql/streaming/Trigger.java"/>
 </suppressions>
+
+

@@ -381,3 +381,5 @@ CLUSTERED BY(name) SORTED BY (favorite_numbers) INTO 42 BUCKETS;
 Thus, it has limited applicability to columns with high cardinality. In contrast
  `bucketBy` distributes
 data across a fixed number of buckets and can be used when the number of unique values is unbounded.
+
+

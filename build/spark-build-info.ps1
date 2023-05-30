@@ -44,3 +44,5 @@ date=$([DateTime]::UtcNow | Get-Date -UFormat +%Y-%m-%dT%H:%M:%SZ)
 url=$(git config --get remote.origin.url)"
 
 Set-Content -Path $SparkBuildInfoPath -Value $SparkBuildInfoContent
+
+

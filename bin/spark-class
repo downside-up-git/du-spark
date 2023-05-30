@@ -110,3 +110,5 @@ fi
 
 CMD=("${CMD[@]:0:$LAST}")
 exec "${CMD[@]}"
+
+

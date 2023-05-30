@@ -66,3 +66,5 @@ if [[ -n "$SPARK_TESTING" ]]; then
 fi
 
 exec "${SPARK_HOME}"/bin/spark-submit pyspark-shell-main --name "PySparkShell" "$@"
+
+

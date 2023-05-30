@@ -108,3 +108,5 @@ SHOW PARTITIONS customer PARTITION (city =  'San Jose');
 * [INSERT STATEMENT](sql-ref-syntax-dml-insert.html)
 * [DESCRIBE TABLE](sql-ref-syntax-aux-describe-table.html)
 * [SHOW TABLE](sql-ref-syntax-aux-show-table.html)
+
+

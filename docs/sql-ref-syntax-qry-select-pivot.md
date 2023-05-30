@@ -100,3 +100,5 @@ SELECT * FROM person
 * [CASE Clause](sql-ref-syntax-qry-select-case.html)
 * [UNPIVOT Clause](sql-ref-syntax-qry-select-unpivot.html)
 * [LATERAL VIEW Clause](sql-ref-syntax-qry-select-lateral-view.html)
+
+

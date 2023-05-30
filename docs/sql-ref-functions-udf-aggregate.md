@@ -125,3 +125,5 @@ SELECT myAverage(salary) as average_salary FROM employees;
 
 * [Scalar User Defined Functions (UDFs)](sql-ref-functions-udf-scalar.html)
 * [Integration with Hive UDFs/UDAFs/UDTFs](sql-ref-functions-udf-hive.html)
+
+

@@ -113,3 +113,5 @@ SELECT * FROM test_load_partition;
 |  1|  2|  3|
 +---+---+---+
 ```
+
+

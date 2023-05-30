@@ -175,3 +175,5 @@ SELECT * FROM person WHERE name NOT LIKE SOME ('%an%', '%an');
 
 * [SELECT](sql-ref-syntax-qry-select.html)
 * [WHERE Clause](sql-ref-syntax-qry-select-where.html)
+
+

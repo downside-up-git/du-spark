@@ -258,3 +258,5 @@ loss of objective function of regularization for L-BFGS by ignoring the part of 
 only for gradient decent such as adaptive step size stuff. We will refactorize
 this into regularizer to replace updater to separate the logic between 
 regularization and step update later. 
+
+

@@ -58,3 +58,4 @@ REFRESH TABLE tempDB.view1;
 * [UNCACHE TABLE](sql-ref-syntax-aux-cache-uncache-table.html)
 * [REFRESH](sql-ref-syntax-aux-cache-refresh.html)
 * [REFRESH FUNCTION](sql-ref-syntax-aux-cache-refresh-function.html)
+

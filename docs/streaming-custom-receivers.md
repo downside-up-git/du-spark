@@ -271,3 +271,5 @@ The following table summarizes the characteristics of both types of receivers
   <td></td>
 </tr>
 </table>
+
+

@@ -84,3 +84,5 @@ SHOW CREATE TABLE test AS SERDE;
 
 * [CREATE TABLE](sql-ref-syntax-ddl-create-table.html)
 * [CREATE VIEW](sql-ref-syntax-ddl-create-view.html)
+
+

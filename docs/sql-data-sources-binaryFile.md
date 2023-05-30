@@ -70,3 +70,5 @@ read.df("/path/to/data", source = "binaryFile", pathGlobFilter = "*.png")
 </div>
 
 Binary file data source does not support writing a DataFrame back to the original files.
+
+

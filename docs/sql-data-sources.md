@@ -69,3 +69,5 @@ goes into specific options that are available for the built-in data sources.
   * [Handling circular references protobuf fields](sql-data-sources-protobuf.html#handling-circular-references-protobuf-fields)
 * [Whole Binary Files](sql-data-sources-binaryFile.html)
 * [Troubleshooting](sql-data-sources-troubleshooting.html)
+
+

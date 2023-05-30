@@ -265,3 +265,5 @@ WHERE zip_code > 94500;
 * [PIVOT Clause](sql-ref-syntax-qry-select-pivot.html)
 * [UNPIVOT Clause](sql-ref-syntax-qry-select-unpivot.html)
 * [LATERAL VIEW Clause](sql-ref-syntax-qry-select-lateral-view.html)
+
+

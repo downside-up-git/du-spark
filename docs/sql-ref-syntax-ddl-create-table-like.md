@@ -86,3 +86,5 @@ CREATE TABLE Student_Dupli like Student
 * [CREATE TABLE USING DATASOURCE](sql-ref-syntax-ddl-create-table-datasource.html)
 * [CREATE TABLE USING HIVE FORMAT](sql-ref-syntax-ddl-create-table-hiveformat.html)
 
+
+

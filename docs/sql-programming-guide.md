@@ -65,3 +65,5 @@ While, in [Java API][java-datasets], users need to use `Dataset<Row>` to represe
 [java-datasets]: api/java/index.html?org/apache/spark/sql/Dataset.html
 
 Throughout this document, we will often refer to Scala/Java Datasets of `Row`s as DataFrames.
+
+

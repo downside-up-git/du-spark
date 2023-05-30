@@ -111,3 +111,5 @@ INSERT OVERWRITE LOCAL DIRECTORY '/tmp/destination'
 ### Related Statements
 
 * [INSERT TABLE statement](sql-ref-syntax-dml-insert-table.html)
+
+

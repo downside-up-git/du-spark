@@ -118,3 +118,4 @@ SELECT key, hiveUDAF(value) FROM t GROUP BY key;
 |  a|              3|
 +---+---------------+
 ```
+

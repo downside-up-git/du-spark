@@ -51,3 +51,5 @@ file:/private/tmp/test
 * [ADD ARCHIVE](sql-ref-syntax-aux-resource-mgmt-add-archive.html)
 * [LIST JAR](sql-ref-syntax-aux-resource-mgmt-list-jar.html)
 * [LIST ARCHIVE](sql-ref-syntax-aux-resource-mgmt-list-archive.html)
+
+

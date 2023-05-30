@@ -271,3 +271,4 @@ APIs you are using are available before migrating existing code to Spark Connect
 [Column](api/scala/org/apache/spark/sql/Column.html).
 
 Support for more APIs is planned for upcoming Spark releases.
+

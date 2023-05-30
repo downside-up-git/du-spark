@@ -23,3 +23,5 @@ license: |
  * [DESCRIBE TABLE](sql-ref-syntax-aux-describe-table.html)
  * [DESCRIBE FUNCTION](sql-ref-syntax-aux-describe-function.html)
  * [DESCRIBE QUERY](sql-ref-syntax-aux-describe-query.html)
+
+

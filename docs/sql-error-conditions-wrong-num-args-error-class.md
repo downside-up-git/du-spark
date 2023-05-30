@@ -34,3 +34,5 @@ Please, refer to '`<docroot>`/sql-ref-functions.html' for a fix.
 If you have to call this function with `<legacyNum>` parameters, set the legacy configuration `<legacyConfKey>` to `<legacyConfValue>`.
 
 
+
+

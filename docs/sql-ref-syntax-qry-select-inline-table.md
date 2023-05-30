@@ -75,3 +75,5 @@ SELECT * FROM VALUES ("one", array(0, 1)), ("two", array(2, 3)) AS data(a, b);
 ### Related Statements
 
 * [SELECT](sql-ref-syntax-qry-select.html)
+
+

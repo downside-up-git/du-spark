@@ -28,3 +28,5 @@ devtools::document(pkg="./pkg", roclets=c("rd"))
 You can verify if your changes are good by running
 
     R CMD check pkg/
+
+

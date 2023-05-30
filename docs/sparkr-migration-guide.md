@@ -78,3 +78,5 @@ Please refer [Migration Guide: SQL, Datasets and DataFrame](sql-migration-guide.
  - SparkSQL converts `NA` in R to `null` and vice-versa.
  - Since 1.6.1, withColumn method in SparkR supports adding a new column to or replacing existing columns
    of the same name of a DataFrame.
+
+

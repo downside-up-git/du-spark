@@ -66,3 +66,5 @@ DROP DATABASE IF EXISTS inventory_db CASCADE;
 * [CREATE DATABASE](sql-ref-syntax-ddl-create-database.html)
 * [DESCRIBE DATABASE](sql-ref-syntax-aux-describe-database.html)
 * [SHOW DATABASES](sql-ref-syntax-aux-show-databases.html)
+
+

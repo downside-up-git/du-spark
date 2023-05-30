@@ -95,3 +95,5 @@ SHOW COLUMNS IN customer IN salesdb;
 
 * [DESCRIBE TABLE](sql-ref-syntax-aux-describe-table.html)
 * [SHOW TABLE](sql-ref-syntax-aux-show-table.html)
+
+

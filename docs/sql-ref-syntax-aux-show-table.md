@@ -178,3 +178,5 @@ Error: Error running query: org.apache.spark.sql.catalyst.analysis.NoSuchTableEx
 
 * [CREATE TABLE](sql-ref-syntax-ddl-create-table.html)
 * [DESCRIBE TABLE](sql-ref-syntax-aux-describe-table.html)
+
+

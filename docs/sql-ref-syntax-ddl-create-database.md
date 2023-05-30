@@ -85,3 +85,5 @@ DESCRIBE DATABASE EXTENDED customer_db;
 
 * [DESCRIBE DATABASE](sql-ref-syntax-aux-describe-database.html)
 * [DROP DATABASE](sql-ref-syntax-ddl-drop-database.html)
+
+

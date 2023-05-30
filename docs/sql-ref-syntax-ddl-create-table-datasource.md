@@ -168,3 +168,5 @@ CREATE TABLE student_bucket
 
 * [CREATE TABLE USING HIVE FORMAT](sql-ref-syntax-ddl-create-table-hiveformat.html)
 * [CREATE TABLE LIKE](sql-ref-syntax-ddl-create-table-like.html)
+
+

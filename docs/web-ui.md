@@ -490,3 +490,5 @@ The third section has the SQL statistics of the submitted operations.
 <p style="text-align: center;">
   <img src="img/JDBCServer3.png" title="JDBC/ODBC SQL Statistics" alt="JDBC/ODBC SQL Statistics">
 </p>
+
+

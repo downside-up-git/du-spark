@@ -478,3 +478,5 @@ should be formatted as `(y, [x1, x2, x3])`, where `y` is some useful label or id
 (e.g. a true category assignment). Anytime a text file is placed in `/training/data/dir`
 the model will update. Anytime a text file is placed in `/testing/data/dir`
 you will see predictions. With new data, the cluster centers will change!
+
+

@@ -82,3 +82,5 @@ Spark scales well to tens of CPU cores per machine because it performs minimal s
 threads. You should likely provision at least **8-16 cores** per machine. Depending on the CPU
 cost of your workload, you may also need more: once data is in memory, most applications are
 either CPU- or network-bound.
+
+

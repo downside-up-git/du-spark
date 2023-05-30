@@ -111,3 +111,5 @@ SHOW TBLPROPERTIES customer ('created.date');
 * [ALTER TABLE SET TBLPROPERTIES](sql-ref-syntax-ddl-alter-table.html)
 * [SHOW TABLES](sql-ref-syntax-aux-show-tables.html)
 * [SHOW TABLE EXTENDED](sql-ref-syntax-aux-show-table.html)
+
+

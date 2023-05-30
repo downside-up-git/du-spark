@@ -54,3 +54,5 @@ More details for these methods can be found here:
   * [gradient-boosted trees](mllib-ensembles.html#gradient-boosted-trees-gbts)
 * [Naive Bayes](mllib-naive-bayes.html)
 * [Isotonic regression](mllib-isotonic-regression.html)
+
+

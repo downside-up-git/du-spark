@@ -754,3 +754,5 @@ You can inspect the search path in R with [`search()`](https://stat.ethz.ch/R-ma
 # Migration Guide
 
 The migration guide is now archived [on this page](sparkr-migration-guide.html).
+
+

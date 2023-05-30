@@ -38,3 +38,5 @@ The definition of "MAP" type is incomplete. You must provide a key type and a va
 The definition of "STRUCT" type is incomplete. You must provide at least one field type. For example: "STRUCT<name STRING, phone DECIMAL(10, 0)>".
 
 
+
+

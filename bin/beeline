@@ -30,3 +30,5 @@ fi
 
 CLASS="org.apache.hive.beeline.BeeLine"
 exec "${SPARK_HOME}/bin/spark-class" $CLASS "$@"
+
+

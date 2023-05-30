@@ -79,3 +79,5 @@ CREATE TABLE test1 (`a`b` int)
 -- This CREATE TABLE works
 CREATE TABLE test (`a``b` int);
 ```
+
+

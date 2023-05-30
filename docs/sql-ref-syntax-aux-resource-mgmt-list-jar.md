@@ -52,3 +52,5 @@ spark://192.168.1.112:62859/jars/test.jar
 * [ADD ARCHIVE](sql-ref-syntax-aux-resource-mgmt-add-archive.html)
 * [LIST FILE](sql-ref-syntax-aux-resource-mgmt-list-file.html)
 * [LIST ARCHIVE](sql-ref-syntax-aux-resource-mgmt-list-archive.html)
+
+

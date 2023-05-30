@@ -51,3 +51,5 @@ file:/tmp/test.zip
 * [ADD ARCHIVE](sql-ref-syntax-aux-resource-mgmt-add-archive.html)
 * [LIST FILE](sql-ref-syntax-aux-resource-mgmt-list-file.html)
 * [LIST JAR](sql-ref-syntax-aux-resource-mgmt-list-jar.html)
+
+

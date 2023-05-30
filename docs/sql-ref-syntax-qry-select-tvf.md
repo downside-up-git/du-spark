@@ -164,3 +164,5 @@ SELECT * FROM test LATERAL VIEW explode (ARRAY(3,4)) AS c2;
 
 * [SELECT](sql-ref-syntax-qry-select.html)
 * [LATERAL VIEW Clause](sql-ref-syntax-qry-select-lateral-view.html)
+
+

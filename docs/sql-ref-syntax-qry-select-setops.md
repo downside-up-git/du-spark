@@ -194,3 +194,5 @@ SELECT c FROM number1 UNION ALL (SELECT c FROM number2);
 ### Related Statements
 
 * [SELECT Statement](sql-ref-syntax-qry-select.html)
+
+

@@ -147,3 +147,5 @@ SELECT * FROM person ORDER BY name ASC, age DESC;
 * [PIVOT Clause](sql-ref-syntax-qry-select-pivot.html)
 * [UNPIVOT Clause](sql-ref-syntax-qry-select-unpivot.html)
 * [LATERAL VIEW Clause](sql-ref-syntax-qry-select-lateral-view.html)
+
+

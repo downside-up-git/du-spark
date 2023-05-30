@@ -109,3 +109,5 @@ DESC FUNCTION EXTENDED explode
 * [DESCRIBE DATABASE](sql-ref-syntax-aux-describe-database.html)
 * [DESCRIBE TABLE](sql-ref-syntax-aux-describe-table.html)
 * [DESCRIBE QUERY](sql-ref-syntax-aux-describe-query.html)
+
+

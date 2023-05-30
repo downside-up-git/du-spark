@@ -136,3 +136,5 @@ a dependency.
 
 The [training exercises](https://github.com/databricks/spark-training) from the Spark Summit 2014 include a hands-on tutorial for
 [personalized movie recommendation with `spark.mllib`](https://github.com/databricks/spark-training/blob/master/website/movie-recommendation-with-mllib.md).
+
+

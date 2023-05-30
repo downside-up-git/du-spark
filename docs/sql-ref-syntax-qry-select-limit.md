@@ -108,3 +108,5 @@ org.apache.spark.sql.AnalysisException: The limit expression must evaluate to a 
 * [PIVOT Clause](sql-ref-syntax-qry-select-pivot.html)
 * [UNPIVOT Clause](sql-ref-syntax-qry-select-unpivot.html)
 * [LATERAL VIEW Clause](sql-ref-syntax-qry-select-lateral-view.html)
+
+

@@ -180,3 +180,5 @@ DESCRIBE customer salesdb.customer.name;
 * [DESCRIBE DATABASE](sql-ref-syntax-aux-describe-database.html)
 * [DESCRIBE QUERY](sql-ref-syntax-aux-describe-query.html)
 * [DESCRIBE FUNCTION](sql-ref-syntax-aux-describe-function.html)
+
+

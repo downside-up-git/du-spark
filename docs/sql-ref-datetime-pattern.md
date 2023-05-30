@@ -136,3 +136,5 @@ The count of pattern letters determines the format.
   An optional section is started by `[` and ended using `]` (or at the end of the pattern).
   
 - Symbols of 'E', 'F', 'q' and 'Q' can only be used for datetime formatting, e.g. `date_format`. They are not allowed used for datetime parsing, e.g. `to_timestamp`.
+
+
